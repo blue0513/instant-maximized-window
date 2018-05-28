@@ -1,0 +1,3 @@
+# Instant Maximized Window
+
+WIP
