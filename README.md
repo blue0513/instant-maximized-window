@@ -4,7 +4,7 @@ Instantly maximize a window in Emacs!!
 
 ## How It Works
 
-[gif](./images/emacs-maximize.gif)
+![gif](./images/emacs-maximize.gif)
 
 ## Usage
 
